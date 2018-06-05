@@ -1,0 +1,32 @@
+#abas{
+
+    margin-left: -40px;
+
+}
+
+#container {
+    border: black solid 3px;
+    margin-right: 77.75%;
+    margin-top: 0px;
+    background-color: hotpink;
+}
+
+#abas ul li{
+    display: inline-block;
+    border: yellow solid 3px;
+    padding: 10px;
+    border-radius:10px 10px 0 0;
+    margin-bottom: -15px;
+    font-family: NanumGothic;
+
+}
+
+.selecionado{
+	background: deepskyblue;
+}
+
+.conteudo{
+    padding-bottom: 4px;
+    font-family: NanumGothic;
+}
+
